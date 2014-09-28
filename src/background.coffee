@@ -1,4 +1,4 @@
-chrome.app.runtime.onLaunched.addListener (launchData) ->
+chrome.app.runtime.onLaunched.addListener ( launchData ) ->
   chrome.app.window.create 'bin/vulcanized.html',
     id: 'mainWindow'
     bounds:
