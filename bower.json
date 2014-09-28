@@ -1,0 +1,12 @@
+{
+  "name": "polymer-chromeapp",
+  "version": "0.0.1",
+  "authors": [
+    "jono wells <_@oj.io>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.4.1",
+    "paper-elements": "Polymer/paper-elements#~0.4.1"
+  }
+}
